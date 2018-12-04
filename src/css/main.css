@@ -1,0 +1,12 @@
+.foodList {
+    display: flex;
+    flex-direction: row;
+}
+
+.idstyling {}
+
+.namestyling {}
+
+.typestyling {}
+
+.ethnicitystyling {}
